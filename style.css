@@ -26,12 +26,13 @@ nav {display: flex;
     text-decoration: none;}
 
 ul {list-style: none ;
-
     display: flex;
     justify-content: space-between;
     gap: 80px;
-
 }
+
+ul a {color: whitesmoke;
+text-decoration: none;}
 
 .img-logo {width: 150px;
     height: 75px;
